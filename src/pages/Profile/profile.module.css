@@ -1,0 +1,27 @@
+.image{
+    height:100px;
+    width:100px;
+}
+.buttonWrapper{
+    display: flex;
+}
+.button{
+    height:60px;
+    width:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#fff;
+    padding: 16px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+.shortlist{
+    background-color: green;
+    margin-right: 16px;
+}
+.reject{
+    background-color: red;
+}
